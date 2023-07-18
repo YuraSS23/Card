@@ -13,7 +13,7 @@ function App() {
         <Box>
             <Image src={img} className="Img" alt="desert"></Image>
             <Headline>Headline</Headline>
-            <Text>Faucibus. Faucibus. Sit sit sapien sit tempusrisu ut. Sit molestie ornare in venen.</Text>
+            <Text>Faucibus. Faucibus. Sit sit sapiens it<br/> tempusrisu ut. Sit molestie ornare in venen.</Text>
             <StyledBtn color={"white"} background={"#4E71FE"}>See more</StyledBtn>
             <StyledBtn color={"#4E71FE"} background={"white"}>Save</StyledBtn>
         </Box>

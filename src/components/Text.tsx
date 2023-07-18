@@ -10,4 +10,5 @@ export const Text = styled.p`
   font-weight: 500;
   line-height: 20px; /* 166.667% */
   margin: 20px 20px 0px 20px;
+  //text-align: center
 `

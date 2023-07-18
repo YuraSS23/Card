@@ -12,4 +12,8 @@ export const StyledBtn = styled.button<StyledBtn>`
   border: 2px solid #4E71FE;
   color: ${props => props.color || "#3f65fb"};
   background-color: ${props => props.background || "#3f65fb"};
+  
+  &:hover {
+    opacity: .3;
+  }
 `
