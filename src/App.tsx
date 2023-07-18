@@ -29,6 +29,9 @@ const Box = styled.div`
   border-radius: 15px;
   background: #FFF;
   box-shadow: 0px 4px 20px 5px rgba(0, 0, 0, 0.10);
-  margin-left: auto;
-  margin-right: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
 `
